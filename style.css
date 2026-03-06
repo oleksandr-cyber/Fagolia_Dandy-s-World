@@ -152,7 +152,7 @@ header nav a:hover {
     justify-content: space-between;
     padding: 40px;
 }
-.сta-2 {
+.cta-2 {
     background-color: white;
     display: flex ;
     align-items: center;
@@ -167,7 +167,8 @@ header nav a:hover {
     align-items: center;
     flex: 1;
 }
-
+cta-2 img { width: 200px; }
+.cta-2 h2 { color: white; font-size: 28px; }
 .cta img { width: 200px; }
 .cta h2 { color: white; font-size: 28px; }
 
