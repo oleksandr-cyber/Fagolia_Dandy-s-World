@@ -152,6 +152,14 @@ header nav a:hover {
     justify-content: space-between;
     padding: 40px;
 }
+.сta-2 {
+    background-color: white;
+    display: flex ;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px;
+    text-align: center;
+}
 
 .cta-text {
     display: flex;
