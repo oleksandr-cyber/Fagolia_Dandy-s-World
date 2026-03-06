@@ -174,8 +174,8 @@ header nav a:hover {
     align-items: center;
     flex: 1;
 }
-cta-2 img { width: 200px; }
-.cta-2 h2 { color: white; font-size: 28px; }
+.cta-2 img { width: 200px; }
+.cta-2 h2 {color: rgba(123, 123, 123, 1); font-size: 28px; }
 .cta img { width: 200px; }
 .cta h2 { color: white; font-size: 28px; }
 
