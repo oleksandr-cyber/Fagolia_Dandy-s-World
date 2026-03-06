@@ -136,7 +136,9 @@ header nav a:hover {
     gap: 40px;
     margin-top: 20px;
 }
-
+.image {
+    gap: 200px !important;
+}
 .toon-card {
     background-color: white;
     padding: 20px;
